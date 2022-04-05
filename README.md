@@ -7,3 +7,6 @@ https://medium.com/@GoergeBaidooJr/creating-a-iam-user-creating-a-user-group-and
 
 2.) How to Create a AWS EC2 Instance (BLOG)
 https://medium.com/@GeorgeBaidooJr/how-to-create-a-aws-ec2-instance-a86d3197df1e 
+
+3.) AWS Budgets, A Vital Service to Have (BLOG)
+https://medium.com/@GeorgeBaidooJr/aws-budgets-how-to-set-it-up-and-the-importance-of-it-dab294cfd7d 
