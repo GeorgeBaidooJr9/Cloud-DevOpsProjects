@@ -10,3 +10,6 @@ https://medium.com/@GeorgeBaidooJr/how-to-create-a-aws-ec2-instance-a86d3197df1e
 
 3.) AWS Budgets, A Vital Service to Have (BLOG)
 https://medium.com/@GeorgeBaidooJr/aws-budgets-how-to-set-it-up-and-the-importance-of-it-dab294cfd7d 
+
+4.) Run a Serverless “Hello World” with AWS Lambda
+https://medium.com/@GeorgeBaidooJr/run-a-serverless-hello-world-with-aws-lambda-2e8b4c35033 
