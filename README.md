@@ -13,3 +13,6 @@ https://medium.com/@GeorgeBaidooJr/aws-budgets-how-to-set-it-up-and-the-importan
 
 4.) Run a Serverless “Hello World” with AWS Lambda
 https://medium.com/@GeorgeBaidooJr/run-a-serverless-hello-world-with-aws-lambda-2e8b4c35033 
+
+5.) Create and Query a NoSQL Table with Amazon DynamoDB
+https://medium.com/@GeorgeBaidooJr/create-and-query-a-nosql-table-with-amazon-dynamodb-e587dfc9d66d
