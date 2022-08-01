@@ -16,3 +16,6 @@ https://medium.com/@GeorgeBaidooJr/run-a-serverless-hello-world-with-aws-lambda-
 
 5.) Create and Query a NoSQL Table with Amazon DynamoDB
 https://medium.com/@GeorgeBaidooJr/create-and-query-a-nosql-table-with-amazon-dynamodb-e587dfc9d66d
+
+6.) Installing An Apache Web Server On A CentOS 8 Server
+https://medium.com/@GeorgeBaidooJr/installing-an-apache-web-server-on-a-centos-8-server-f425c7f9202c 
