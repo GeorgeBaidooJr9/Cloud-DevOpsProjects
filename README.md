@@ -25,3 +25,6 @@ https://medium.com/@GeorgeBaidooJr/github-fork-clone-push-73d1f367bc33
 
 8.) Create an AWS EC2 Instance & Host an Apache Web Server On It With a Custom Page
 https://medium.com/@GeorgeBaidooJr/create-an-aws-ec2-instance-host-a-apache-web-server-on-it-1d81d61d9efb
+
+9.) Installing An NGINX Web Server On An AWS EC2 Linux-Based Instance
+https://medium.com/@GeorgeBaidooJr/installing-an-nginx-web-server-on-an-aws-ec2-linux-based-instance-13cd843fbfcc 
