@@ -28,3 +28,6 @@ https://medium.com/@GeorgeBaidooJr/create-an-aws-ec2-instance-host-a-apache-web-
 
 9.) Installing An NGINX Web Server On An AWS EC2 Linux-Based Instance
 https://medium.com/@GeorgeBaidooJr/installing-an-nginx-web-server-on-an-aws-ec2-linux-based-instance-13cd843fbfcc 
+
+10.) Create a Auto-Scaling Group of EC2 Instances for high availability 
+https://medium.com/@GeorgeBaidooJr/create-an-auto-scaling-group-of-ec2-instances-for-high-availability-66be7d695961
