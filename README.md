@@ -31,3 +31,6 @@ https://medium.com/@GeorgeBaidooJr/installing-an-nginx-web-server-on-an-aws-ec2-
 
 10.) Create a Auto-Scaling Group of EC2 Instances for high availability 
 https://medium.com/@GeorgeBaidooJr/create-an-auto-scaling-group-of-ec2-instances-for-high-availability-66be7d695961
+
+11.) Creating a DynamoDB table & Providing READ only access to an AWS EC2 Instance
+https://medium.com/@GeorgeBaidooJr/creating-a-dynamodb-table-providing-read-only-access-to-an-aws-ec2-instance-2d03633ee460
