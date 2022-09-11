@@ -34,3 +34,6 @@ https://medium.com/@GeorgeBaidooJr/create-an-auto-scaling-group-of-ec2-instances
 
 11.) Creating a DynamoDB table & Providing READ only access to an AWS EC2 Instance
 https://medium.com/@GeorgeBaidooJr/creating-a-dynamodb-table-providing-read-only-access-to-an-aws-ec2-instance-2d03633ee460
+
+12.) Create a Highly Available 3 Tier Architecture 
+https://medium.com/@GeorgeBaidooJr/create-a-highly-available-3-tier-aws-architecture-9c8b6d8ba418
