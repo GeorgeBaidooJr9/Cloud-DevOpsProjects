@@ -37,3 +37,6 @@ https://medium.com/@GeorgeBaidooJr/creating-a-dynamodb-table-providing-read-only
 
 12.) Create a Highly Available 3 Tier Architecture 
 https://medium.com/@GeorgeBaidooJr/create-a-highly-available-3-tier-aws-architecture-9c8b6d8ba418
+
+13.) Starting and Stopping AWS EC2 Instances using Python and Boto3
+https://medium.com/@GeorgeBaidooJr/starting-and-stopping-aws-ec2-instances-using-python-and-boto3-5801a4879c10
