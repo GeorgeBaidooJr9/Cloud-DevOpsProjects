@@ -40,3 +40,6 @@ https://medium.com/@GeorgeBaidooJr/create-a-highly-available-3-tier-aws-architec
 
 13.) Starting and Stopping AWS EC2 Instances using Python and Boto3
 https://medium.com/@GeorgeBaidooJr/starting-and-stopping-aws-ec2-instances-using-python-and-boto3-5801a4879c10
+
+14.) Configuring an API Gateway HTTP to Trigger a AWS Lambda Function that Sends a Message to AWS SQS
+https://medium.com/@GeorgeBaidooJr/configuring-an-api-gateway-http-to-trigger-a-aws-lambda-function-that-sends-a-message-to-aws-sqs-e6ecdfee495e
