@@ -43,3 +43,6 @@ https://medium.com/@GeorgeBaidooJr/starting-and-stopping-aws-ec2-instances-using
 
 14.) Configuring an API Gateway HTTP to Trigger a AWS Lambda Function that Sends a Message to AWS SQS
 https://medium.com/@GeorgeBaidooJr/configuring-an-api-gateway-http-to-trigger-a-aws-lambda-function-that-sends-a-message-to-aws-sqs-e6ecdfee495e
+
+14.) Deploying Ngninx Custom Image to Docker, Creating a Docker Container & Pushing Container Data to AWS ECR
+https://medium.com/@GeorgeBaidooJr/deploying-nginx-custom-image-on-docker-pushing-docker-container-data-to-aws-elastic-container-88605419f49e 
