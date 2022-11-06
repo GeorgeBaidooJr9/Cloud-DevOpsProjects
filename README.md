@@ -46,3 +46,6 @@ https://medium.com/@GeorgeBaidooJr/configuring-an-api-gateway-http-to-trigger-a-
 
 14.) Deploying Ngninx Custom Image to Docker, Creating a Docker Container & Pushing Container Data to AWS ECR
 https://medium.com/@GeorgeBaidooJr/deploying-nginx-custom-image-on-docker-pushing-docker-container-data-to-aws-elastic-container-88605419f49e 
+
+15.) Kubernetes: Deploying with a YAML Configuration File Via the CLI
+https://medium.com/@GeorgeBaidooJr/kubernetes-deployment-with-a-yaml-configuration-file-via-the-cli-cc0f72f7d827
