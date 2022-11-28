@@ -51,4 +51,7 @@ https://medium.com/@GeorgeBaidooJr/deploying-nginx-custom-image-on-docker-pushin
 https://medium.com/@GeorgeBaidooJr/kubernetes-deployment-with-a-yaml-configuration-file-via-the-cli-cc0f72f7d827
 
 16.) Kubernetes: Deploying a Custom Index.html file On Nginx Pod Using a ConfigMap
-https://medium.com/@GeorgeBaidooJr/kubernetes-deploying-a-custom-index-html-file-on-nginx-pod-using-a-configmap-191881b44e1c 
+https://medium.com/@GeorgeBaidooJr/kubernetes-deploying-a-custom-index-html-file-on-nginx-pod-using-a-configmap-191881b44e1c
+
+17.) Deploying a AWS 2-Tier Architecture Using Terraform Modules
+https://medium.com/@GeorgeBaidooJr/deploying-a-aws-two-tier-architecture-using-terraform-modules-fd6732aeb38b
