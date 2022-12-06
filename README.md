@@ -56,5 +56,5 @@ https://medium.com/@GeorgeBaidooJr/kubernetes-deploying-a-custom-index-html-file
 17.) Deploying a AWS 2-Tier Architecture Using Terraform Modules
 https://medium.com/@GeorgeBaidooJr/deploying-a-aws-two-tier-architecture-using-terraform-modules-fd6732aeb38b
 
-18) Deploying an AWS EC2 Instance Using Terraform Modules 
+18.) Deploying an AWS EC2 Instance Using Terraform Modules 
 https://medium.com/@GeorgeBaidooJr/creating-an-aws-ec2-instance-using-terraform-modules-cde32db45358
