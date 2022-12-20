@@ -58,3 +58,6 @@ https://medium.com/@GeorgeBaidooJr/deploying-a-aws-two-tier-architecture-using-t
 
 18.) Deploying an AWS EC2 Instance Using Terraform Modules 
 https://medium.com/@GeorgeBaidooJr/creating-an-aws-ec2-instance-using-terraform-modules-cde32db45358
+
+19.) Terraform: Deploy an AWS ECS Cluster
+https://medium.com/@GeorgeBaidooJr/terraform-deploy-an-aws-ecs-cluster-18f80d5ef562
