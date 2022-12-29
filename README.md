@@ -61,3 +61,6 @@ https://medium.com/@GeorgeBaidooJr/creating-an-aws-ec2-instance-using-terraform-
 
 19.) Terraform: Deploy an AWS ECS Cluster
 https://medium.com/@GeorgeBaidooJr/terraform-deploy-an-aws-ecs-cluster-18f80d5ef562
+
+20.) CI/CD Pipeline: Deploy a Simple Application to an AWS EC2 Instance Via CodeDeploy
+https://medium.com/@GeorgeBaidooJr/ci-cd-pipeline-deploy-a-simple-application-to-an-aws-ec2-instance-via-codedeploy-9fe0fb8f7130 
