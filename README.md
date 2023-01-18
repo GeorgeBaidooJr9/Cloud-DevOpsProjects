@@ -64,3 +64,6 @@ https://medium.com/@GeorgeBaidooJr/terraform-deploy-an-aws-ecs-cluster-18f80d5ef
 
 20.) CI/CD Pipeline: Deploy a Simple Application to an AWS EC2 Instance Via CodeDeploy
 https://medium.com/@GeorgeBaidooJr/ci-cd-pipeline-deploy-a-simple-application-to-an-aws-ec2-instance-via-codedeploy-9fe0fb8f7130 
+
+21.) Deploy a LAMP Stack Website on a Ubuntu Server
+https://medium.com/@GeorgeBaidooJr/deploy-a-lamp-stack-website-in-aws-cloud-bc693344553d
