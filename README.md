@@ -1,4 +1,4 @@
-# MyCloudProjects-GB
+# My-DevOps/Cloud-Projects-GB
 This is my ongoing repo containing my cloud projects. 
 
 
