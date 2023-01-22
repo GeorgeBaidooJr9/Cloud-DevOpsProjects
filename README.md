@@ -67,3 +67,6 @@ https://medium.com/@GeorgeBaidooJr/ci-cd-pipeline-deploy-a-simple-application-to
 
 21.) Deploy a LAMP Stack Website on a Ubuntu Server
 https://medium.com/@GeorgeBaidooJr/deploy-a-lamp-stack-website-in-aws-cloud-bc693344553d
+
+22.) Deploy a LEMP Stack Website on a Ubuntu Server
+https://medium.com/@GeorgeBaidooJr/deploy-a-lemp-web-stack-on-ubuntu-server-28079e3e187c
