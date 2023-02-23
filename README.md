@@ -70,3 +70,6 @@ https://medium.com/@GeorgeBaidooJr/deploy-a-lamp-stack-website-in-aws-cloud-bc69
 
 22.) Deploy a LEMP Stack Website on a Ubuntu Server
 https://medium.com/@GeorgeBaidooJr/deploy-a-lemp-web-stack-on-ubuntu-server-28079e3e187c
+
+23.) Deploy a Docker Container Running a Simple Application on AWS ECS
+https://medium.com/@GeorgeBaidooJr/deploy-a-docker-container-running-a-simple-application-on-aws-ecs-94285e4cd021
