@@ -73,3 +73,6 @@ https://medium.com/@GeorgeBaidooJr/deploy-a-lemp-web-stack-on-ubuntu-server-2807
 
 23.) Deploy a Docker Container Running a Simple Application on AWS ECS-
 https://medium.com/@GeorgeBaidooJr/deploy-a-docker-container-running-a-simple-application-on-aws-ecs-94285e4cd021
+
+24.) Install Jenkins on AWS EC2 Instance(Ubuntu)
+https://medium.com/@GeorgeBaidooJr/deploy-jenkins-on-aws-ec2-instance-ubuntu-9704b7ea55da
