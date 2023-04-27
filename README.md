@@ -76,3 +76,6 @@ https://medium.com/@GeorgeBaidooJr/deploy-a-docker-container-running-a-simple-ap
 
 24.) Install Jenkins on AWS EC2 Instance(Ubuntu)
 https://medium.com/@GeorgeBaidooJr/deploy-jenkins-on-aws-ec2-instance-ubuntu-9704b7ea55da
+
+25.) Deploy a WordPress Website on AWS using Docker
+https://medium.com/@GeorgeBaidooJr/deploy-a-wordpress-website-on-aws-using-docker-29864b2b0487?sk=3859e9a335eb934066f9199d52c17448
