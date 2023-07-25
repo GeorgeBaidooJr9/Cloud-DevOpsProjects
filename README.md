@@ -79,3 +79,6 @@ https://medium.com/@GeorgeBaidooJr/deploy-jenkins-on-aws-ec2-instance-ubuntu-970
 
 25.) Deploy a WordPress Website on AWS using Docker
 https://medium.com/@GeorgeBaidooJr/deploy-a-wordpress-website-on-aws-using-docker-29864b2b0487?sk=3859e9a335eb934066f9199d52c17448
+
+26.) Deploy a Reliable & Robust Multi-Tier AWS Infrastructure Using AWS CloudFormation
+https://medium.com/@GeorgeBaidooJr/deploy-a-reliable-and-robust-multi-tier-aws-infrastructure-using-aws-cloudformation-316f6edb547e?sk=fc89493dcfe8f360582ff6dcd5b8613c
